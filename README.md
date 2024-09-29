@@ -8,3 +8,13 @@ The objective of our project is to develop an application that helps new student
 The scope of the project we have in mind is based on helping the user (through a bot), guiding them along the path of being a new employee and resolving any doubts that may arise along this journey. As this project focuses directly on new students, it is expected that they will promote the application with their experiences to future users who come in later years.
 
 For the moment, we will focus on making the bot work with more generic questions to verify that its information is correct and up to date, trying to save as much time as possible, trying to add as much information during the development period.
+
+### Users:
+In this project we are focusing mainly on new students from the Autonomous University of Yucatán, more specifically in the mathematics faculty, however, any student from the university and the exact engineering campus will be able to use this app 
+
+
+- Primary: New FMAT students
+  
+- Secondary: Students outside of FMAT
+  
+- Potential: Teachers and family members
