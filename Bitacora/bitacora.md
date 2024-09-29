@@ -13,6 +13,7 @@
 |Jesús Everardo Jimenez Rivera |                              |                |
 
 ## Semanas
+
 | Semanas                  | Descripción |
 |--------------------------|-------------|
 | Semana 1 (2/09 al 9/09)  |             |
