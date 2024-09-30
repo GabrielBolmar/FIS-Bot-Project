@@ -2,9 +2,16 @@
 
 ## First Review Presentation:
 
-### Binnacle:
-[Team members work](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Bitacora/bitacora.md)
 
+## Team:
+
+
+## Binnacle:
+### [Team members work](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Bitacora/bitacora.md)
+
+## Our Project MATHWARE
+
+### Video: 
 
 ### Description:
 The objective of our project is to develop an application that helps new students and some students who find the management of information from the Faculty of Mathematics confusing. This bot app will help with the most common doubts for them in the Faculty. of Mathematics of the Autonomous University of Yucatan and its adaptation to the institution
@@ -32,6 +39,21 @@ This application is made based on the problem that several new students present,
 
 Our proposal has the value of solving a problem that new students present (obtaining information related to the faculty), which could help not only apply for the present, but also for the future.
 
+---
+### Requirements:
+
+
+
+### User stories:
+
+
+
+### Use case diagram:
+
+
+
+---
+
 ### Generic Skills:
 
 * #### Planning.
@@ -39,6 +61,8 @@ Our proposal has the value of solving a problem that new students present (obtai
 * #### Develop solutions
 * #### Responsibility and commitment.
 * #### Participation of each member.
+
+---
 
 ### Specific competencies:
 
