@@ -43,7 +43,7 @@ Our proposal has the value of solving a problem that new students present (obtai
 ---
 ### Requirements:
 
-[Functional and Non-Functional Requirements](FirstReview/Requrimients/Tableforrequiremients.pdf)
+[Functional and Non-Functional Requirements](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/First%20Review/Requrimients/Table%20for%20requiremients.pdf)
 
 ### User stories:
 
