@@ -18,3 +18,12 @@ In this project we are focusing mainly on new students from the Autonomous Unive
 - Secondary: Students outside of FMAT
   
 - Potential: Teachers and family members
+
+### VALUE PROPOSITION
+Our project consists of creating an application with an automated bot capable of answering frequently asked questions that new students at the UADY Faculty of Mathematics may have, using information directly provided by the institution's staff, this being the most up-to-date possible.
+
+Our product will be able to store all the necessary information in one place, allowing users to answer all their questions related to the FMAT without the need to go to multiple sites. Furthermore, it manages to synthesize all the information requested without becoming confusing. 
+
+This application is made based on the problem that several new students present, which is the difficulty of obtaining information related to the faculty, such as: Where is that room? How do I request a study certificate? What type of material should I bring?, among others. 
+
+Our proposal has the value of solving a problem that new students present (obtaining information related to the faculty), which could help not only apply for the present, but also for the future.
