@@ -43,7 +43,7 @@ Our proposal has the value of solving a problem that new students present (obtai
 ---
 ### Requirements:
 
-
+[Functional and Non-Functional Requirements](FirstReview/Requrimients/Tableforrequiremients.pdf)
 
 ### User stories:
 
