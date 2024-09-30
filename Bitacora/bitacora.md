@@ -5,7 +5,7 @@
 | Nombres                      | Participación en el proyecto | Porcentaje (%) |
 |------------------------------|------------------------------|----------------|
 |José Carlos Keb Zi            |<p>Realizó gran parte del proyecto, apoyó en la parte de los requerimientos, la historia de usuario y en los diagramas de flujo, fue el líder del equipo y nos mantenía en contacto y en orden sobre el manejo de la información y el proceso de cómo realizarlo 
-<p>                                                           |                |
+<p>|                |
 |Luis Adrian Chuc Cool         |<p>Realizó junto a Gabriel Bolaños Marín todo el repositorio, transcribió la información de los compañeros de trabajo a inglés y realizó tabla de bitácoras 
 
 <p>|                |
