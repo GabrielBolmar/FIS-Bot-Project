@@ -15,7 +15,7 @@
 ### Video: 
 
 ---
-<img src=https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Logo/Black%20and%20White%20Modern%20Textured%20Software%20Development%20Portfolio%20Presentation.png>
+<img src=https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Logo/Black%20and%20White%20Modern%20Textured%20Software%20Development%20Portfolio%20Presentation.png alt="Logo del proyecto" width="300px" height="auto">
 
 ---
 
