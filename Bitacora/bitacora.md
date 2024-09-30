@@ -20,3 +20,9 @@
 | Semana 2 (9/09  al 16/09)|<p><p>|
 | Semana 3 (16/09 al 23/09)|<p>Empezamos con la reuniones en la plataforma Teams para debatir sobre el proyecto y ver qué hará cada ingegrante del equipo<p>|
 | Semana 4 (23/09 al 30/09)|<p><p>|
+
+
+## Evidencias de trabajo
+Adjuntamos enlace de las reuniones que hicimos para abordar temas sobre el proyecto
+[Reunión #1](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a24216380_alumnos_uady_mx/ERKk4iwQnuFIpu7iq1PnxBcBdYXqUocp2pGh-Vg-_1BdGw?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+[Reunión #2](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a24216380_alumnos_uady_mx/Ee4ALxzBuQ9DhjXlnCuLiX8BJ9anwUCEHdSMPQvMXl2G0Q?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
