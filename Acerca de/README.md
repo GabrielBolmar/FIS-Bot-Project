@@ -27,3 +27,21 @@ Our product will be able to store all the necessary information in one place, al
 This application is made based on the problem that several new students present, which is the difficulty of obtaining information related to the faculty, such as: Where is that room? How do I request a study certificate? What type of material should I bring?, among others. 
 
 Our proposal has the value of solving a problem that new students present (obtaining information related to the faculty), which could help not only apply for the present, but also for the future.
+
+### Generic Skills:
+
+* #### Planning.
+* #### Discipline.
+* #### Develop solutions
+* #### Responsibility and commitment.
+* #### Participation of each member.
+
+### Specific competencies:
+
+* #### Analysis and Continuous Improvement Capacity: Evaluate the performance of the chatbot and make adjustments based on the project, present diagnostic tests with people and improve as necessary. 
+
+* #### Communication Skills: Being able to work as a team and communicate ideas effectively is essential for collaborative development of complex ideas in a clear and concise manner, both within the development team and with end users. 
+
+* #### Problem Solving: Ability to identify and solve technical and design problems that may arise during chatbot development 
+
+* #### Collaboration and Teamwork: Work effectively with other team members who will have their roles, such as the designer and programmers, to ensure that the chatbot meets the project objectives
