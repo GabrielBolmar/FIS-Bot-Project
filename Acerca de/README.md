@@ -47,7 +47,7 @@ Our proposal has the value of solving a problem that new students present (obtai
 
 ### User stories:
 
-
+[User Stories](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/First%20Review/User%20stories/User%20stories%20.pdf)
 
 ### Use case diagram:
 
