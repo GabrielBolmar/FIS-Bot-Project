@@ -4,13 +4,19 @@
 
 | Nombres                      | Participación en el proyecto | Porcentaje (%) |
 |------------------------------|------------------------------|----------------|
-|José Carlos Keb Zi            |                              |                |
-|Luis Adrian Chuc Cool         |                              |                |
-|Angel Daniel Zuñiga Gomez     |                              |                |
-|Gabriel Emilio Bolaños Marin  |                              |                |
-|Freddy Emiliano Corre Oj      |                              |                |
-|Jorge Armando Pech Sánchez    |                              |                |
-|Jesús Everardo Jimenez Rivera |                              |                |
+|José Carlos Keb Zi            |<p>Realizó gran parte del proyecto, apoyó en la parte de los requerimientos, la historia de usuario y en los diagramas de flujo, fue el líder del equipo y nos mantenía en contacto y en orden sobre el manejo de la información y el proceso de cómo realizarlo 
+<p>|                |
+|Luis Adrian Chuc Cool         |<p>Realizó junto a Gabriel Bolaños Marín todo el repositorio, transcribió la información de los compañeros de trabajo a inglés y realizó tabla de bitácoras 
+
+<p>|                |
+|Angel Daniel Zuñiga Gomez     |<p><p>|                |
+|Gabriel Emilio Bolaños Marin  |<p>Realizó junto a su compañero Adrián todo el repositorio, transcribiendo toda la información de los compañeros de trabajo a inglés para ingresarlo al código del repositorio y realizó la tabla de requerimientos funcionales y no funcionales 
+<p>|                |
+|Freddy Emiliano Corre Oj      |<p><p>|                |
+|Jorge Armando Pech Sánchez    |<p>Realizó junto con su compañero Jesús toda la parte de la presentación, se encargó de crear el nombre del proyecto y el realizó la presentación visual y se apoyó con su compañero para la realización del video 
+
+<p>|                |
+|Jesús Everardo Jimenez Rivera |<p>Realizó junto con su compañero Jorge toda la parte de la presentación, se encargó del primer diseño del logo del bot y se apoyó junto con su compañero para la realización del video<p>|                |
 
 ## Semanas
 |Semanas                   | Descripción |
