@@ -2,7 +2,7 @@
 
 ## First Review Presentation:
 
-[Presentation]([FirstReview/FirstReviewPresentation/Mathware.pdf](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/First%20Review/First%20Review%20Presentation/Mathware.pdf))
+[Presentation](https://github.com/GabrielBolmar/FIS-Bot-Project/tree/main/First%20Review/First%20Review%20Presentation)
 
 ## Team:
 
