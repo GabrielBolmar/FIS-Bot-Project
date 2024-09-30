@@ -3,6 +3,7 @@
 ## First Review Presentation:
 
 ### Binnacle:
+[Team members work](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Bitacora/bitacora.md)
 
 
 ### Description:
