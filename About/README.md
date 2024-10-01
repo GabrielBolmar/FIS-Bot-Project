@@ -8,7 +8,7 @@
 
 
 ## Binnacle:
-### [Team members work](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Bitacora/bitacora.md)
+### [Team members work](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Binnacle/binnacle.md)
 
 ## Our Project MATHWARE
 
