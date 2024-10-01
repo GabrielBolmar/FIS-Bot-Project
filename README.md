@@ -4,9 +4,6 @@
 
 ### [Presentation](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/First%20Review/First%20Review%20Presentation/Mathware.pdf)
 
-## Team:
-
-
 ## Binnacle:
 ### [Team members work](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Binnacle/binnacle.md)
 
