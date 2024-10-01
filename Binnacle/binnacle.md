@@ -19,9 +19,7 @@
 | Week 1 (2/09 al 9/09)  |<p>This week we were using WhatsApp to communicate the project proposals as well as going to the teacher to ask how viable our project is and how you could see if it is really a need<p>|
 | Week 2 (9/09  al 16/09)|<p>We still have our doubts about the project and we continue to go to the teacher and ask about our project during classes.<p>|
 | Week 3 (16/09 al 23/09)|<p>We start with meetings on the Teams platform to discuss the project and see what each member of the team will do<p>|
-| Week 4 (23/09 al 30/09)|<p>Returning to the project to finish and upload it.
-This week the video was recorded and the repository on GitHub was being finalized<p>|
-
+| Week 4 (23/09 al 30/09)|<p>Returning to the project to finish and upload it. This week the video was recorded and the repository on GitHub was being finalized<p>|
 
 ## Evidence of work
 We attach a link to the meetings we held to address issues about the project
