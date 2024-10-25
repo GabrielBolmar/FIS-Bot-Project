@@ -82,3 +82,10 @@ Our proposal has the value of solving a problem that new students present (obtai
 * #### Problem Solving: Ability to identify and solve technical and design problems that may arise during chatbot development 
 
 * #### Collaboration and Teamwork: Work effectively with other team members who will have their roles, such as the designer and programmers, to ensure that the chatbot meets the project objectives
+
+---
+
+###Backlog:
+
+#### https://trello.com/b/qcdLQy5z/backlog-fis
+  
