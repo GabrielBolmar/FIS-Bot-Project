@@ -17,4 +17,4 @@ El alcance de este proyecto es elaborar una web en donde al usuario se le pueda 
 -  [Diagrana de requerimientos](https://raw.githubusercontent.com/GabrielBolmar/FIS-Bot-Project/refs/heads/Carlos-keb/Diagrama/Diagrama.webp)
 
 ### 3.-  **[Procesos](https://github.com/GabrielBolmar/FIS-Bot-Project/tree/main/Proceso)**
--  [Historias de usuario](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Historias%20de%20usuario/Historias_de_usuario.md)
+-  [Gestion de proceso](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Proceso/Gestion_de_proceso.md)
