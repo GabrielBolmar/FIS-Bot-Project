@@ -7,3 +7,5 @@ Actividades realizadas:
 •	Realización de la mejora del proceso
 
 ## Actividades realizadas: 
+•	Recreacion del repositorio
+•	Creacion de diapositivas
