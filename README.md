@@ -19,3 +19,7 @@ El alcance de este proyecto es elaborar una web en donde al usuario se le pueda 
 ### 3.-  **[Procesos](https://github.com/GabrielBolmar/FIS-Bot-Project/tree/main/Proceso)**
 -  [Gestion de proceso](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Proceso/Gestion_de_proceso.md)
 -  [Metricas de contribucion](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Proceso/M%C3%A9tricas%20de%20contribuci%C3%B3n.png)
+
+### 5.- **[Competencias](https://github.com/GabrielBolmar/FIS-Bot-Project/tree/main/Competencias)**
+- [Competencias Genericas](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Competencias/Competencias_genericas.md)
+- [Competencias Especificas](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Competencias/Competencias_especificas.md)
