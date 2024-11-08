@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prompts Forge</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="prompt">
+    <h2>
+        Este es un titulo
+    </h2>
+    <nav>
+        <button class="nav-button" onclick="accion()">Menú</button>  
+        <a href="#" class="enlace desaparece">Inicio</a>
+        <a href="#" class="enlace desaparece">Prompts Unidad I</a>
+        <a href="#" class="enlace desaparece">Prompts Unidad II</a>
+        <a href="#" class="enlace desaparece">Ayuda</a>
+    </nav>
+
+    <script>
+        function accion(){
+    console.log("Está funcionando el boton")
+    var ancla = document.getElementsByClassName("enlace")
+    for (var i = 0; i < ancla.length; i++){
+        ancla[i].classList.toggle("desaparece")
+    }
+}
+    </script>
+</body>
+</html>
