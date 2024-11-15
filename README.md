@@ -1,91 +1,36 @@
-# Our Team Repository FIS
+# **Producto: PromptsForge** 
 
-## First Review Presentation:
+## **Objetivo**
 
-### [Presentation](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/First%20Review/First%20Review%20Presentation/Mathware.pdf)
+ El objetivo de nuestro proyecto es crear una web interactiva que permita a los usuarios obtener información haciendo preguntas acerca sobre un tema en especificó (segunda unidad de la materia de fundamentos de ingeniería de software). Esta web ayudara a brindar información de la materia de fis a los usuarios, mediante prompts
 
-## Binnacle:
-### [Team members work](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Binnacle/binnacle.md)
+## **Alcance**
 
-## Our Project MATHWARE
+El alcance de este proyecto es elaborar una web en donde al usuario se le pueda resolver las dudas que tengan acerca de la unidad 2 de FIS, pudiendo recordar o aprender información nueva que será de ayuda tanto en esta materia como en otras materias que se verán a lo largo de la carrera de Ingeniería de Software 
 
-### First Review Video: 
-### Here -> https://youtu.be/hFJnhvG3kG4
+## **Tabla de contenido** 
 
-### Second Review Video: 
-### Here -> https://youtu.be/LNO0UxOTIEA
----
+### 1. **[Descripcion del Producto](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Producto/Descripcion%20del%20producto.pdf)**
 
-<div style="text-align: center;">
-  <img src="https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Logo/Black%20and%20White%20Modern%20Textured%20Software%20Development%20Portfolio%20Presentation.png" alt="Logo del proyecto" width="700px">
-</div>
-
----
-
-### Description:
-The objective of our project is to develop an application that helps new students and some students who find the management of information from the Faculty of Mathematics confusing. This bot app will help with the most common doubts for them in the Faculty. of Mathematics of the Autonomous University of Yucatan and its adaptation to the institution
-
-The scope of the project we have in mind is based on helping the user (through a bot), guiding them along the path of being a new employee and resolving any doubts that may arise along this journey. As this project focuses directly on new students, it is expected that they will promote the application with their experiences to future users who come in later years.
-
-For the moment, we will focus on making the bot work with more generic questions to verify that its information is correct and up to date, trying to save as much time as possible, trying to add as much information during the development period.
-
-### Users:
-In this project we are focusing mainly on new students from the Autonomous University of Yucatán, more specifically in the mathematics faculty, however, any student from the university and the exact engineering campus will be able to use this app 
+### 2.- **[ Requerimientos ](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/2da%20entrega/Requerimientos/REQUERIMIENTOS%20FUNCIONALES.pdf)**
+- [Historias de usuario](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Historias%20de%20usuario/Historias_de_usuario.md)
+-  [Diagrana de requerimientos](https://raw.githubusercontent.com/GabrielBolmar/FIS-Bot-Project/refs/heads/Carlos-keb/Diagrama/Diagrama.webp)
+-  [Prompts](https://github.com/GabrielBolmar/FIS-Bot-Project/tree/main/Prompts)
 
 
-- Primary: New FMAT students
-  
-- Secondary: Students outside of FMAT
-  
-- Potential: Teachers and family members
 
-### VALUE PROPOSITION
-Our project consists of creating an application with an automated bot capable of answering frequently asked questions that new students at the UADY Faculty of Mathematics may have, using information directly provided by the institution's staff, this being the most up-to-date possible.
+### 3.-  **[Procesos](https://github.com/GabrielBolmar/FIS-Bot-Project/tree/main/Proceso)**
+-  [Gestion de proceso](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Proceso/Gestion_de_proceso.md)
+-  [Metricas de contribucion](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Proceso/M%C3%A9tricas%20de%20contribuci%C3%B3n.png)
 
-Our product will be able to store all the necessary information in one place, allowing users to answer all their questions related to the FMAT without the need to go to multiple sites. Furthermore, it manages to synthesize all the information requested without becoming confusing. 
+### 4.- **[Video Presentacion](https://youtu.be/k8XanYPFvrI?feature=shared)**
+- [Presentacion](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/2da%20entrega/Requerimientos/Presentaci%C3%B3n%20(2).pdf)
 
-This application is made based on the problem that several new students present, which is the difficulty of obtaining information related to the faculty, such as: Where is that room? How do I request a study certificate? What type of material should I bring?, among others. 
-
-Our proposal has the value of solving a problem that new students present (obtaining information related to the faculty), which could help not only apply for the present, but also for the future.
-
----
-### Requirements:
-
-[Functional and Non-Functional Requirements](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/First%20Review/Requrimients/Table%20for%20requiremients.pdf)
-
-### User stories:
-
-[User Stories](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/First%20Review/User%20stories/User%20stories%20.pdf)
-
-### Use case diagram:
-
-[Diagram](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/First%20Review/Use%20case%20diagram/Diagram.pdf)
+### 5.- **[Competencias](https://github.com/GabrielBolmar/FIS-Bot-Project/tree/main/Competencias)**
+- [Competencias Genericas](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Competencias/Competencias_genericas.md)
+- [Competencias Especificas](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Competencias/Competencias_especificas.md)
 
 ---
 
-### Generic Skills:
-
-* #### Planning.
-* #### Discipline.
-* #### Develop solutions
-* #### Responsibility and commitment.
-* #### Participation of each member.
-
----
-
-### Specific competencies:
-
-* #### Analysis and Continuous Improvement Capacity: Evaluate the performance of the chatbot and make adjustments based on the project, present diagnostic tests with people and improve as necessary. 
-
-* #### Communication Skills: Being able to work as a team and communicate ideas effectively is essential for collaborative development of complex ideas in a clear and concise manner, both within the development team and with end users. 
-
-* #### Problem Solving: Ability to identify and solve technical and design problems that may arise during chatbot development 
-
-* #### Collaboration and Teamwork: Work effectively with other team members who will have their roles, such as the designer and programmers, to ensure that the chatbot meets the project objectives
-
----
-
-### nBacklog:
-
-#### https://trello.com/b/qcdLQy5z/backlog-fis
-  
+## Evidencia de reuniones con el equipo 
+**[Documento](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/Carlos-keb/Reuniones/Evidencia_Reuniones.pdf)**  
