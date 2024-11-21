@@ -30,7 +30,7 @@ El alcance de este proyecto es elaborar una web en donde al usuario se le pueda 
 - [Competencias Genericas](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Competencias/Competencias_genericas.md)
 - [Competencias Especificas](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Competencias/Competencias_especificas.md)
 
-### 6.- **[Diseño] (https://github.com/GabrielBolmar/GabrielBolmar-FIS-Bot-Project/tree/main/Dise%C3%B1o)**
+### 6.- **[Diseño](https://github.com/GabrielBolmar/GabrielBolmar-FIS-Bot-Project/tree/main/Dise%C3%B1o)**
 ---
 
 ## Evidencia de reuniones con el equipo 
