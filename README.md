@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+Tercera Entrega 
 =======
 # **Producto: PromptsForge** 
 
