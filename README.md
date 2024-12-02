@@ -4,11 +4,11 @@ Tercera Entrega
 
 ## **Objetivo**
 
- El objetivo de nuestro proyecto es crear una web interactiva que permita a los usuarios obtener información haciendo preguntas acerca sobre un tema en especificó (segunda unidad de la materia de fundamentos de ingeniería de software). Esta web ayudara a brindar información de la materia de fis a los usuarios, mediante prompts
+El objetivo de nuestro proyecto es crear una web interactiva que permita a los usuarios obtener información mediante prompts ya establecidos los cuales ya fueron probados, estudiados y comparados acerca de las primeras dos unidades de la asignatura de fundamentos de ingeniería de software. Esta web permite mediante su interfaz seleccionar uno de los prompts ya establecidos el cual ayuda a brindar información rescatada de chat gpt, antes ya comparada con información verídica de libros usados en la carrera de ingeniería de los temas vistos en las dos primeras universidades de la asignatura de FIS
 
 ## **Alcance**
 
-El alcance de este proyecto es elaborar una web en donde al usuario se le pueda resolver las dudas que tengan acerca de la unidad 2 de FIS, pudiendo recordar o aprender información nueva que será de ayuda tanto en esta materia como en otras materias que se verán a lo largo de la carrera de Ingeniería de Software 
+El alcance de este proyecto es elaborar una web en donde al usuario se le pueda resolver las dudas que tengan acerca de las dos primeras unidades de la asignatura de FIS, pudiendo recordar o aprender información nueva que será de ayuda tanto en esta materia como en otras materias que se verán a lo largo de la carrera de Ingeniería de Software. Por el momento nos centraremos en hacer funcionar la web realizando los prompts de cada tema visto de las dos primeras unidades de la materia de Fundamentos de Ingeniería de software, dando indicaciones de cómo hacer el mejor planteamiento de la pregunta con respecto al tema usando la herramienta de chatgpt.  
 
 ## **Tabla de contenido** 
 
