@@ -12,7 +12,7 @@ El alcance de este proyecto es elaborar una web en donde al usuario se le pueda 
 
 ## **Tabla de contenido** 
 
-### 1. **[Descripcion del Producto](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Producto/Descripcion%20del%20producto.pdf)**
+### 1. **[Descripcion del Producto](https://github.com/GabrielBolmar/GabrielBolmar-FIS-Bot-Project/blob/main/3ra%20Entrega/Criterios/Producto/Producto%20entrega%203.docx)**
 
 ### 2.- **[ Requerimientos ](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/2da%20entrega/Requerimientos/REQUERIMIENTOS%20FUNCIONALES.pdf)**
 - [Historias de usuario](https://github.com/GabrielBolmar/FIS-Bot-Project/blob/main/Historias%20de%20usuario/Historias_de_usuario.md)
